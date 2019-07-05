@@ -1,0 +1,45 @@
+[
+    {
+        "name": "orr/jdo",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/suchartbu/jdo.git",
+            "reference": "c80bcefa404134074cf2c125aa05b94ca3fa3403"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/suchartbu/jdo/zipball/c80bcefa404134074cf2c125aa05b94ca3fa3403",
+            "reference": "c80bcefa404134074cf2c125aa05b94ca3fa3403",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.2"
+        },
+        "time": "2019-07-04T11:40:56+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "Orr\\Lib\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Suchart Bunhachirat",
+                "email": "suchartbu@gmail.com"
+            }
+        ],
+        "description": "PHP JDBC",
+        "keywords": [
+            "as400",
+            "db2",
+            "jdbc"
+        ]
+    }
+]

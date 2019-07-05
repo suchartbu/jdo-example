@@ -1,0 +1,13 @@
+{
+    "name": "orr/jdo-example",
+    "description": "Description of project jdo-example.",
+    "authors": [
+        {
+            "name": "Suchart Bunhachirat",
+            "email": "suchartbu@gmail.com"
+        }
+    ],
+    "require": {
+        "orr/jdo": "dev-master"
+    }
+}
